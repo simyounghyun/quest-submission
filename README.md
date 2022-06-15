@@ -23,3 +23,8 @@ Chapter2 Day2
 ![image](https://user-images.githubusercontent.com/78969722/173835695-56b52f2f-7334-499b-844c-715e4aea820b.png)
 ![image](https://user-images.githubusercontent.com/78969722/173835811-e2a76b04-bb98-4840-acef-b3ea36bc7fdb.png)
 ![image](https://user-images.githubusercontent.com/78969722/173835590-af0270d8-a7f3-465c-9ec3-ff207925e7d9.png)
+
+Chapter2 Day3
+1.
+![image](https://user-images.githubusercontent.com/78969722/173837425-2d741952-41b3-41b7-a83f-30e355345ba0.png)
+![image](https://user-images.githubusercontent.com/78969722/173837500-e61c1054-b23f-4f79-b9a6-d89a451e222f.png)
