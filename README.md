@@ -14,3 +14,12 @@ Chapter2 Day1
 
 2.
 ![image](https://user-images.githubusercontent.com/78969722/173830537-22d0abd8-f285-4f5d-bb09-a54efcf7e09c.png)
+
+Chapter2 Day2
+1. changeGreeting is changing the state of the blockchain.
+2. It means we can access data in our account.
+3. We access data in our account in the prepare phase and change the data in the execute phase.
+4. 
+![image](https://user-images.githubusercontent.com/78969722/173835695-56b52f2f-7334-499b-844c-715e4aea820b.png)
+![image](https://user-images.githubusercontent.com/78969722/173835811-e2a76b04-bb98-4840-acef-b3ea36bc7fdb.png)
+![image](https://user-images.githubusercontent.com/78969722/173835590-af0270d8-a7f3-465c-9ec3-ff207925e7d9.png)
